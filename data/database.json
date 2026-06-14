@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "Alex",
+            "email": "alex@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Test",
+            "description": "demo",
+            "due_date": "2026-01-01"
+        }
+    ],
+    "tasks": [
+        {
+            "project_title": "Website",
+            "status": "Pending",
+            "assigned_to": "Alex"
+        }
+    ]
+}
